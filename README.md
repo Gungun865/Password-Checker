@@ -13,8 +13,7 @@ Gives feedback or warnings about password strength
 
 Provides security suggestions to improve weak passwords
 
-🚀 Built With
-Python 3: Core programming language
+Built With Python 3: Core programming language
 
 re module: Used for pattern matching and character type detection
 
